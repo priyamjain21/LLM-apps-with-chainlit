@@ -1,0 +1,6 @@
+chainlit
+openai
+groq
+python-dotenv
+-e . 
+
