@@ -56,5 +56,6 @@ The menu includes:- \
 - Chana Masala with Poori - $8.99
 - Vegetable Biryani - $9.99
 - Samosa (2 pcs) - $4.99
+- Kachori (2 pcs) - $5.99
 - Lassi (Mango, Rose, or Salted) - $3.99
 """
