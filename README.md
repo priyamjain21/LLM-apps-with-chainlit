@@ -7,3 +7,23 @@ Built a Zomato-style food ordering assistant using Python, Generative AI (OpenAI
 
 Built a GenAI-powered food ordering chatbot using OpenAI GPT-3.5, Python, and Chainlit, with prompt engineering and multi-turn conversation for real-time user interaction.
 
+# Chainlit demo
+
+Chainlit is like Streamlit for LLM app development :)
+
+To Know more about Chainlit, refer the official docs - https://docs.chainlit.io/overview
+
+
+
+---
+
+
+### CMD:
+
+```bash
+chainlit init
+```
+
+```bash
+chainlit run app.py
+```
